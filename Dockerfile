@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM eclipse-temurin:8u312-jre
+FROM eclipse-temurin:8-jre-noble
 
 LABEL version="2.5.8"
 LABEL homepage.group=Minecraft
